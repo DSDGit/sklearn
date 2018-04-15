@@ -12,3 +12,5 @@ c.NotebookApp.port = 8000
 
 jupyter-notebook --no-browser --port=8000
 ````
+
+https://docs.google.com/forms/d/1SdSKlImDgMUNdndArfCH7tzuGVMoaQxYD5RoR7EP44Q/viewform?edit_requested=true
